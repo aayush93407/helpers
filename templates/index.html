@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find Helpers</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Find Helpers</h1>
+        <form action="/result" method="POST">
+            <label for="description">Describe your project and required skills:</label>
+            <textarea id="description" name="description" rows="4"></textarea>
+            <button type="submit">Find Helpers</button>
+        </form>
+    </div>
+</body>
+</html>

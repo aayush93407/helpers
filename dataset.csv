@@ -1,0 +1,101 @@
+Name,Phone,Resume_Skills,LinkedIn_Skills,Internship,Internship_Duration
+Alice Johnson,+91-202-555-8682,"['Python', 'Cybersecurity', 'React']","['Machine Learning', 'Python', 'TensorFlow', 'SQL']",Facebook,7
+Bob Smith,+91-202-555-4276,"['React', 'Java', 'Cybersecurity']","['SQL', 'Cybersecurity', 'Python', 'Natural Language Processing']",Facebook,4
+Charlie Brown,+91-202-555-2234,"['Java', 'Machine Learning', 'Natural Language Processing']","['Machine Learning', 'TensorFlow', 'Natural Language Processing', 'Data Analysis']",IBM,9
+David Lee,+91-202-555-9309,"['Machine Learning', 'TensorFlow', 'Data Analysis', 'Java', 'Cybersecurity', 'Natural Language Processing']","['Python', 'Natural Language Processing', 'React']",Netflix,12
+Emma Davis,+91-202-555-9109,"['Machine Learning', 'Java', 'React', 'Cybersecurity', 'Python']","['Cybersecurity', 'Natural Language Processing', 'TensorFlow', 'Machine Learning', 'Python', 'React']",Twitter,7
+Fiona Clark,+91-202-555-1998,"['Cloud Computing', 'Machine Learning', 'Java']","['SQL', 'Cybersecurity', 'Data Analysis', 'Natural Language Processing', 'Cloud Computing']",Microsoft,9
+George Harris,+91-202-555-9181,"['Cybersecurity', 'SQL', 'Java', 'Data Analysis']","['Cloud Computing', 'Machine Learning', 'TensorFlow', 'Cybersecurity', 'React']",Twitter,4
+Hannah White,+91-202-555-3415,"['Machine Learning', 'TensorFlow', 'Data Analysis', 'Python', 'Cloud Computing']","['TensorFlow', 'Cloud Computing', 'Java']",Facebook,1
+Ian Martinez,+91-202-555-2424,"['Natural Language Processing', 'Cybersecurity', 'Machine Learning', 'React']","['Natural Language Processing', 'Java', 'Machine Learning', 'React', 'SQL', 'Cloud Computing']",Netflix,6
+Julia Adams,+91-202-555-7842,"['Cybersecurity', 'React', 'TensorFlow']","['SQL', 'Cloud Computing', 'React', 'Data Analysis', 'TensorFlow']",Intel,4
+Kevin Lewis,+91-202-555-9647,"['Python', 'Cloud Computing', 'Java', 'Machine Learning', 'Data Analysis']","['Cybersecurity', 'React', 'Data Analysis']",Amazon,9
+Liam Scott,+91-202-555-3951,"['Java', 'Natural Language Processing', 'Machine Learning', 'Python', 'React', 'TensorFlow']","['Machine Learning', 'Natural Language Processing', 'Python', 'Cloud Computing']",Adobe,3
+Mia Turner,+91-202-555-2477,"['Python', 'Machine Learning', 'React', 'SQL', 'Natural Language Processing', 'Cloud Computing']","['SQL', 'Machine Learning', 'Data Analysis', 'Python']",Google,9
+Nathan Hall,+91-202-555-3704,"['Data Analysis', 'SQL', 'Natural Language Processing', 'React', 'Cybersecurity']","['SQL', 'Python', 'Cybersecurity', 'TensorFlow']",Tesla,11
+Olivia Allen,+91-202-555-4262,"['SQL', 'TensorFlow', 'React']","['Python', 'SQL', 'Machine Learning', 'React', 'Natural Language Processing', 'Java']",Twitter,11
+Paul Wright,+91-202-555-6627,"['TensorFlow', 'Java', 'Cybersecurity']","['Cloud Computing', 'SQL', 'TensorFlow', 'Data Analysis', 'React']",Intel,6
+Quincy Young,+91-202-555-1831,"['TensorFlow', 'Data Analysis', 'Machine Learning', 'Java']","['Python', 'Cybersecurity', 'SQL', 'Cloud Computing', 'Machine Learning', 'TensorFlow']",Facebook,6
+Rachel King,+91-202-555-9866,"['Natural Language Processing', 'Cybersecurity', 'SQL', 'TensorFlow']","['Java', 'Data Analysis', 'Natural Language Processing', 'React', 'Machine Learning']",Twitter,10
+Samuel Walker,+91-202-555-4606,"['SQL', 'Python', 'Natural Language Processing', 'React']","['Data Analysis', 'Java', 'Cybersecurity']",IBM,4
+Tina Nelson,+91-202-555-7869,"['Java', 'Cloud Computing', 'SQL']","['TensorFlow', 'SQL', 'Natural Language Processing', 'Data Analysis']",Adobe,11
+Umar Khan,+91-202-555-6657,"['Java', 'TensorFlow', 'React']","['Machine Learning', 'Cybersecurity', 'Java']",Google,3
+Vera Brooks,+91-202-555-8312,"['Data Analysis', 'Python', 'Cloud Computing']","['Data Analysis', 'SQL', 'Cloud Computing']",IBM,11
+William Carter,+91-202-555-3119,"['SQL', 'Natural Language Processing', 'React', 'Machine Learning', 'Cloud Computing']","['Cybersecurity', 'Natural Language Processing', 'React', 'Cloud Computing', 'Machine Learning', 'Java']",IBM,4
+Xander Evans,+91-202-555-7205,"['Natural Language Processing', 'TensorFlow', 'Python', 'Cloud Computing', 'Machine Learning']","['TensorFlow', 'Python', 'Cybersecurity', 'React', 'Data Analysis', 'Natural Language Processing']",IBM,11
+Yvonne Foster,+91-202-555-3470,"['TensorFlow', 'Natural Language Processing', 'Cloud Computing', 'Python']","['Machine Learning', 'Python', 'Natural Language Processing']",Microsoft,8
+Zack Green,+91-202-555-7070,"['TensorFlow', 'Python', 'React', 'Java', 'Machine Learning', 'Data Analysis']","['Cybersecurity', 'React', 'TensorFlow', 'SQL', 'Python', 'Data Analysis']",Tesla,8
+Aaron Hughes,+91-202-555-3899,"['React', 'Java', 'TensorFlow', 'SQL', 'Machine Learning']","['Cloud Computing', 'Natural Language Processing', 'Data Analysis', 'Python', 'Cybersecurity']",Netflix,6
+Bella Irving,+91-202-555-5203,"['Cloud Computing', 'Machine Learning', 'Cybersecurity', 'SQL', 'Python']","['Cloud Computing', 'Machine Learning', 'React']",Facebook,2
+Cameron Johnson,+91-202-555-6479,"['Natural Language Processing', 'Cloud Computing', 'React', 'Java', 'SQL']","['SQL', 'Machine Learning', 'Python']",Netflix,11
+Diana Kim,+91-202-555-3284,"['Python', 'React', 'Machine Learning', 'Data Analysis', 'Cloud Computing']","['Data Analysis', 'Machine Learning', 'Java', 'Cybersecurity']",Facebook,8
+Ethan Long,+91-202-555-9596,"['Natural Language Processing', 'Data Analysis', 'Cloud Computing']","['React', 'Java', 'SQL', 'Machine Learning', 'Cloud Computing']",Twitter,12
+Faith Moore,+91-202-555-7587,"['Cloud Computing', 'Natural Language Processing', 'React']","['Python', 'SQL', 'Machine Learning', 'React']",Netflix,12
+Gabriel Nelson,+91-202-555-3996,"['Cloud Computing', 'Java', 'Data Analysis', 'Natural Language Processing', 'Machine Learning']","['Cloud Computing', 'Machine Learning', 'Java', 'Cybersecurity']",Microsoft,3
+Hailey Owens,+91-202-555-8588,"['TensorFlow', 'Python', 'Cybersecurity', 'Java', 'Data Analysis', 'SQL']","['Cybersecurity', 'Data Analysis', 'Machine Learning', 'Java', 'Cloud Computing', 'TensorFlow']",Google,11
+Isaac Perez,+91-202-555-1018,"['Cloud Computing', 'Data Analysis', 'Natural Language Processing', 'SQL']","['Cloud Computing', 'Java', 'Data Analysis']",Twitter,6
+Jasmine Quinn,+91-202-555-4558,"['SQL', 'Cybersecurity', 'Java', 'Data Analysis', 'React']","['Python', 'Java', 'Data Analysis', 'React']",Intel,4
+Kyle Roberts,+91-202-555-4518,"['Cybersecurity', 'Cloud Computing', 'TensorFlow']","['Machine Learning', 'SQL', 'Natural Language Processing', 'React', 'Python', 'TensorFlow']",Facebook,1
+Lara Simmons,+91-202-555-2908,"['React', 'Data Analysis', 'Cloud Computing', 'TensorFlow']","['Data Analysis', 'Cloud Computing', 'Machine Learning', 'React', 'Python']",Intel,2
+Mason Thompson,+91-202-555-5264,"['TensorFlow', 'Data Analysis', 'Cloud Computing', 'Python', 'React']","['TensorFlow', 'Natural Language Processing', 'Data Analysis', 'Machine Learning', 'SQL']",Twitter,4
+Natalie Underwood,+91-202-555-3192,"['React', 'Machine Learning', 'Java', 'Natural Language Processing', 'TensorFlow', 'Python']","['Data Analysis', 'TensorFlow', 'React', 'SQL']",Adobe,3
+Oscar Vasquez,+91-202-555-3526,"['Cloud Computing', 'Data Analysis', 'Natural Language Processing', 'TensorFlow']","['SQL', 'Cloud Computing', 'Python', 'Java', 'Data Analysis', 'Natural Language Processing']",Facebook,6
+Penelope Watson,+91-202-555-2928,"['SQL', 'Cybersecurity', 'Java', 'Cloud Computing']","['Cloud Computing', 'Cybersecurity', 'Data Analysis']",IBM,3
+Quentin Xiong,+91-202-555-6771,"['Cybersecurity', 'SQL', 'TensorFlow']","['React', 'Cloud Computing', 'SQL', 'Cybersecurity']",Google,2
+Rebecca Young,+91-202-555-6810,"['Java', 'SQL', 'Cybersecurity']","['Data Analysis', 'Cloud Computing', 'TensorFlow']",IBM,10
+Sebastian Zimmerman,+91-202-555-1113,"['Cybersecurity', 'React', 'Data Analysis', 'Machine Learning']","['Cybersecurity', 'Machine Learning', 'Python']",Microsoft,5
+Taylor Anderson,+91-202-555-4266,"['Cloud Computing', 'Cybersecurity', 'Data Analysis']","['Natural Language Processing', 'SQL', 'Cloud Computing', 'Cybersecurity', 'TensorFlow']",Tesla,11
+Ulysses Bennett,+91-202-555-7458,"['Cybersecurity', 'Data Analysis', 'SQL', 'Natural Language Processing', 'Cloud Computing', 'Machine Learning']","['SQL', 'Python', 'Cloud Computing', 'Machine Learning']",Google,7
+Valerie Cooper,+91-202-555-3461,"['Cloud Computing', 'Machine Learning', 'TensorFlow', 'Java']","['SQL', 'Natural Language Processing', 'Machine Learning']",Google,5
+Walter Dixon,+91-202-555-5514,"['Data Analysis', 'Natural Language Processing', 'SQL', 'Cloud Computing']","['Java', 'SQL', 'Machine Learning']",Facebook,9
+Xenia Edwards,+91-202-555-4604,"['Data Analysis', 'Cloud Computing', 'Natural Language Processing', 'Cybersecurity', 'React', 'SQL']","['Cybersecurity', 'TensorFlow', 'Machine Learning', 'Python', 'Java', 'SQL']",Twitter,1
+Yosef Franklin,+91-202-555-7799,"['Java', 'Cybersecurity', 'Cloud Computing', 'Python']","['Natural Language Processing', 'Cybersecurity', 'Cloud Computing', 'React', 'TensorFlow']",Twitter,2
+Zara Grant,+91-202-555-3963,"['Data Analysis', 'Java', 'Natural Language Processing']","['SQL', 'Machine Learning', 'React', 'Java']",Twitter,3
+Adam Hayes,+91-202-555-1729,"['SQL', 'Python', 'Natural Language Processing', 'TensorFlow', 'Cloud Computing']","['SQL', 'Data Analysis', 'Natural Language Processing', 'Java']",Adobe,4
+Brooke Ingram,+91-202-555-3133,"['TensorFlow', 'Cybersecurity', 'Machine Learning', 'Natural Language Processing']","['Data Analysis', 'Natural Language Processing', 'Cybersecurity', 'SQL', 'Machine Learning']",Adobe,2
+Connor James,+91-202-555-6821,"['Machine Learning', 'Python', 'Cloud Computing']","['Java', 'Cloud Computing', 'Natural Language Processing', 'React', 'SQL']",Google,9
+Delilah King,+91-202-555-6091,"['Data Analysis', 'TensorFlow', 'Machine Learning']","['SQL', 'Natural Language Processing', 'Cloud Computing']",Google,1
+Evan Lewis,+91-202-555-5561,"['Cloud Computing', 'SQL', 'React', 'Python', 'Data Analysis', 'Java']","['Machine Learning', 'TensorFlow', 'React', 'Cloud Computing', 'Cybersecurity']",Amazon,1
+Felicity Morgan,+91-202-555-9305,"['Machine Learning', 'React', 'Cloud Computing', 'TensorFlow', 'SQL', 'Cybersecurity']","['SQL', 'Cloud Computing', 'React', 'Java']",Microsoft,1
+Gavin Norris,+91-202-555-4219,"['React', 'Java', 'Cybersecurity', 'Cloud Computing']","['SQL', 'Data Analysis', 'React', 'Natural Language Processing', 'Cybersecurity', 'Cloud Computing']",Intel,3
+Holly Owens,+91-202-555-1740,"['Natural Language Processing', 'Java', 'Machine Learning', 'Python']","['Machine Learning', 'Natural Language Processing', 'Python']",Facebook,11
+Ian Parker,+91-202-555-3474,"['TensorFlow', 'Data Analysis', 'SQL']","['Java', 'Cybersecurity', 'SQL', 'React', 'Natural Language Processing']",Netflix,5
+Jessica Quinn,+91-202-555-3328,"['SQL', 'Cybersecurity', 'TensorFlow']","['Data Analysis', 'Machine Learning', 'SQL', 'Cloud Computing']",Intel,12
+Keith Russell,+91-202-555-4235,"['Python', 'Machine Learning', 'SQL', 'Cybersecurity', 'Java', 'TensorFlow']","['SQL', 'Cybersecurity', 'Machine Learning', 'Cloud Computing', 'React']",Adobe,8
+Lillian Scott,+91-202-555-3390,"['TensorFlow', 'Natural Language Processing', 'Python', 'Machine Learning', 'Java']","['Data Analysis', 'Java', 'React', 'SQL', 'Machine Learning', 'Cybersecurity']",Intel,7
+Matthew Turner,+91-202-555-9112,"['Python', 'SQL', 'Java', 'Cybersecurity']","['Java', 'Cybersecurity', 'Natural Language Processing', 'Data Analysis', 'Python']",Intel,11
+Nicole Underwood,+91-202-555-1557,"['TensorFlow', 'Python', 'SQL', 'Data Analysis']","['SQL', 'Machine Learning', 'Python', 'React']",Adobe,6
+Owen Vasquez,+91-202-555-5451,"['Data Analysis', 'Python', 'Java', 'Natural Language Processing']","['Java', 'React', 'Natural Language Processing', 'Machine Learning']",Tesla,4
+Paige Walker,+91-202-555-3144,"['React', 'Machine Learning', 'SQL', 'Natural Language Processing', 'Data Analysis', 'Java']","['Natural Language Processing', 'SQL', 'Cloud Computing', 'Cybersecurity', 'React', 'Machine Learning']",Intel,11
+Quinn Xavier,+91-202-555-2024,"['SQL', 'Python', 'Machine Learning', 'Cybersecurity', 'Data Analysis', 'Natural Language Processing']","['Python', 'Machine Learning', 'Java', 'Cloud Computing', 'React']",Google,7
+Ryan Young,+91-202-555-8384,"['Cloud Computing', 'Java', 'Machine Learning', 'Cybersecurity', 'TensorFlow']","['Natural Language Processing', 'Data Analysis', 'Machine Learning', 'Cloud Computing']",Facebook,12
+Sophia Zimmerman,+91-202-555-7532,"['Data Analysis', 'TensorFlow', 'Cloud Computing', 'Machine Learning', 'Natural Language Processing', 'React']","['SQL', 'Cloud Computing', 'Python']",Microsoft,7
+Thomas Anderson,+91-202-555-7732,"['Cloud Computing', 'Natural Language Processing', 'React', 'Cybersecurity', 'SQL', 'Java']","['React', 'Natural Language Processing', 'Java', 'Data Analysis', 'Machine Learning']",Netflix,8
+Uma Bennett,+91-202-555-3735,"['SQL', 'React', 'Python']","['React', 'SQL', 'Machine Learning', 'Natural Language Processing', 'Java']",Netflix,1
+Victoria Clark,+91-202-555-3506,"['Cloud Computing', 'SQL', 'Java', 'Machine Learning', 'React']","['Natural Language Processing', 'Data Analysis', 'React']",IBM,11
+Wesley Davis,+91-202-555-2679,"['TensorFlow', 'React', 'Natural Language Processing', 'Machine Learning', 'Java']","['Data Analysis', 'Machine Learning', 'Python', 'Natural Language Processing', 'Cybersecurity', 'Java']",Twitter,3
+Xander Ellis,+91-202-555-2922,"['Cloud Computing', 'React', 'Data Analysis', 'Machine Learning']","['Cybersecurity', 'Cloud Computing', 'TensorFlow', 'Machine Learning', 'React']",Twitter,10
+Yara Franklin,+91-202-555-1404,"['Python', 'Natural Language Processing', 'Data Analysis']","['SQL', 'Data Analysis', 'Natural Language Processing', 'Cybersecurity', 'Python', 'Java']",Twitter,9
+Zane Grant,+91-202-555-2084,"['Cloud Computing', 'Java', 'SQL', 'Data Analysis']","['Machine Learning', 'TensorFlow', 'SQL', 'Cloud Computing', 'Natural Language Processing']",IBM,7
+Amber Harris,+91-202-555-4441,"['Java', 'React', 'Natural Language Processing']","['SQL', 'Cloud Computing', 'Natural Language Processing', 'Python', 'TensorFlow']",Tesla,9
+Brandon Ingram,+91-202-555-1271,"['Data Analysis', 'Cloud Computing', 'Java', 'TensorFlow', 'React']","['Cloud Computing', 'Java', 'Natural Language Processing']",Tesla,2
+Catherine Johnson,+91-202-555-4570,"['Data Analysis', 'Cloud Computing', 'React', 'SQL']","['Java', 'SQL', 'Machine Learning', 'Natural Language Processing', 'Data Analysis']",Microsoft,4
+Derek Kim,+91-202-555-8666,"['SQL', 'Java', 'Python', 'React', 'Cybersecurity', 'TensorFlow']","['Natural Language Processing', 'React', 'Java', 'SQL', 'Cloud Computing']",IBM,2
+Eleanor Long,+91-202-555-4088,"['React', 'SQL', 'Natural Language Processing', 'Cybersecurity']","['Natural Language Processing', 'Data Analysis', 'Cybersecurity', 'TensorFlow']",Amazon,9
+Felix Moore,+91-202-555-5719,"['Cybersecurity', 'TensorFlow', 'Cloud Computing', 'SQL', 'Natural Language Processing', 'Machine Learning']","['Machine Learning', 'Data Analysis', 'TensorFlow', 'SQL', 'React']",Intel,7
+Grace Nelson,+91-202-555-8108,"['SQL', 'Cybersecurity', 'Machine Learning']","['Cloud Computing', 'React', 'Java']",Adobe,7
+Henry Owens,+91-202-555-5487,"['Natural Language Processing', 'SQL', 'Machine Learning', 'Python', 'Cybersecurity']","['TensorFlow', 'Cybersecurity', 'Java', 'Data Analysis']",Google,10
+Isla Perez,+91-202-555-5617,"['TensorFlow', 'Java', 'React', 'Python', 'Data Analysis']","['Machine Learning', 'Data Analysis', 'Cloud Computing', 'React', 'TensorFlow', 'Python']",Facebook,5
+Jack Quinn,+91-202-555-9056,"['Java', 'Cloud Computing', 'Natural Language Processing', 'TensorFlow']","['Data Analysis', 'Cloud Computing', 'SQL', 'Natural Language Processing', 'Java', 'React']",Adobe,10
+Kylie Roberts,+91-202-555-8274,"['TensorFlow', 'Natural Language Processing', 'SQL', 'React', 'Java']","['React', 'Natural Language Processing', 'TensorFlow', 'Machine Learning']",Microsoft,1
+Leo Simmons,+91-202-555-4524,"['Java', 'Cybersecurity', 'React', 'Cloud Computing']","['Natural Language Processing', 'Cloud Computing', 'Data Analysis', 'React', 'TensorFlow', 'Java']",Intel,5
+Madeline Thompson,+91-202-555-2828,"['Cloud Computing', 'Cybersecurity', 'Java', 'Data Analysis']","['TensorFlow', 'Natural Language Processing', 'Machine Learning', 'React', 'Cloud Computing']",Amazon,3
+Nathan Underwood,+91-202-555-9172,"['Cybersecurity', 'Data Analysis', 'Natural Language Processing', 'Python', 'Java', 'SQL']","['Java', 'Cloud Computing', 'React', 'SQL', 'Python', 'Natural Language Processing']",Microsoft,9
+Olivia Vasquez,+91-202-555-7475,"['React', 'Cybersecurity', 'Cloud Computing', 'Python', 'Java', 'Data Analysis']","['Data Analysis', 'Cybersecurity', 'Java', 'React']",Tesla,10
+Peter Watson,+91-202-555-1027,"['Natural Language Processing', 'Cybersecurity', 'SQL']","['Java', 'Cybersecurity', 'TensorFlow']",Netflix,4
+Quincy Xiong,+91-202-555-7250,"['Cybersecurity', 'SQL', 'React', 'TensorFlow', 'Java']","['Machine Learning', 'Python', 'TensorFlow']",Tesla,6
+Rose Young,+91-202-555-8392,"['Natural Language Processing', 'Machine Learning', 'TensorFlow', 'SQL', 'Java', 'Cloud Computing']","['Cloud Computing', 'Cybersecurity', 'Data Analysis']",Amazon,4
+Samuel Zimmerman,+91-202-555-4735,"['Machine Learning', 'Cloud Computing', 'Data Analysis', 'React']","['Cybersecurity', 'Natural Language Processing', 'TensorFlow', 'Java', 'React']",Facebook,12
+Tessa Anderson,+91-202-555-1984,"['TensorFlow', 'Cloud Computing', 'Machine Learning', 'Python', 'Natural Language Processing', 'SQL']","['Machine Learning', 'React', 'SQL']",Facebook,2
+Umar Bennett,+91-202-555-7866,"['Java', 'React', 'Machine Learning', 'Natural Language Processing']","['React', 'Natural Language Processing', 'Cybersecurity', 'TensorFlow', 'Machine Learning']",Twitter,9
+Violet Cooper,+91-202-555-3771,"['Machine Learning', 'Python', 'Cloud Computing', 'Data Analysis']","['Machine Learning', 'Cloud Computing', 'Java', 'Python', 'SQL', 'Natural Language Processing']",Twitter,6
